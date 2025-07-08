@@ -11,4 +11,7 @@ This is a front-end clone of the Netflix homepage, created using HTML and CSS. T
 ## 🎯 Features
 - Clean layout inspired by Netflix
 - Static homepage elements
-- Responsive design
+- Responsive 
+
+## 🚀 Live Preview
+[Click here to view the project](https://shreyasangwa.github.io/Notflix/)
